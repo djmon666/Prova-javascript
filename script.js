@@ -1,4 +1,4 @@
 
-function click1(e){
+function boto(e){
     alert("Button "+e+" pressed!");
   }
